@@ -6,3 +6,12 @@
 
 TOSHIBA 1TB
 - Películas (149.8 GB)
+
+19/09/2023 09:52
+* * *
+- Particionar Yoga en 2 discos de 250GB cada uno, usando utilitaria rescatux iso con ventoy en usb 16GB con Bandera de Mexico
+- instale Mx Linux 23 a Yoga
+- Estoy en el proceso de configuración
+- Estoy Sincronizando Insync 
+- Estoy Sincronizando DropBox
+
