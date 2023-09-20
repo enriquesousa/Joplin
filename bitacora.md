@@ -15,3 +15,19 @@ TOSHIBA 1TB
 - Estoy Sincronizando Insync 
 - Estoy Sincronizando DropBox
 
+PCloudDrive
+
+Folders:
+- Backups			- 60.6 GB
+- My Pictures 		- 13.4 GB
+- Vandana HD Share	- 9.5 GB
+- luckyBackup		- 7.5 GB
+- Insync2021		- 5.9 GB
+- My Videos 		- 4.5 GB
+- My Music 			- 4.4 GB
+- My Downloads	    - 343.6 MB
+- py-uia 	        - 134.9 MB
+- My Documents	    - 55.6 MB
+- Joplin-BackUp  	- 20.7 MB	
+- IconsData 		-  6.8 MB 
+
