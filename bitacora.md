@@ -31,3 +31,38 @@ Folders:
 - Joplin-BackUp  	- 20.7 MB	
 - IconsData 		-  6.8 MB 
 
+
+20/09/2023 06:21
+* * *
+
+- Install Docker-Desktop Debian on Mx Linux Yoga
+- Tematize por completo Mx Linux Yoga!
+- Instael Lando
+- Lando NO me funciono con Docker Desktop
+- Voy desinstalar Docker
+
+Para des-Instalar Docker:
+**How To Completely Remove Docker From Your Debian Based Linux**
+https://www.lokarithm.com/2020/05/31/how-to-completely-remove-docker-from-debian-ubuntu-or-your-raspberry-pi/
+
+Identify which Docker package have you installed
+```
+dpkg -l | grep -i docker
+sudo apt-get purge -y docker-ce docker-ce-cli
+sudo apt-get autoremove -y --purge docker-ce docker-ce-cli
+```
+
+Remove the packages	
+```
+sudo apt-get purge -y docker-engine docker docker.io docker-ce docker-ce-cli
+
+sudo apt-get autoremove -y --purge docker-engine docker docker.io docker-ce
+``` 
+
+Remove all the Docker related files
+```
+sudo rm -rf /var/lib/docker /etc/docker
+sudo rm /etc/apparmor.d/docker
+sudo groupdel docker
+sudo rm -rf /var/run/docker.sock
+```
