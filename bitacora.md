@@ -97,3 +97,11 @@ sudo rm -rf /var/run/docker.sock
 -  'https://school.lndo.site/' 
 18. Listo!
 
+# 21/09/2023 19:29
+* * *
+- Instale Rhino Linux En segunda particion de Lenovo Yoga
+- Instale:
+- Nala, App Image Launcher, Docker, Lando
+- GitKraken
+- Vscode
+
