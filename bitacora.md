@@ -1,15 +1,19 @@
+# Bitácora Git
+
+Crear una carpeta en /home/enrique/Sites/Joplin
+Donde voy a respaldar un backup de Joplin, File/Export All/Joplin Export File 
+Y solo voy a copiar un archivo tipo texto que se llame BitacoraGit.md y solo este archivo es el que voy a sincronizar con mi Git para tener siempre una bitácora respaldado en GIT donde diga en pocas palabras en lo que estuve trabajando ese dia!
+
 # 18/09/2023 09:38
-* * *
 - Estoy planeando cambio de Sistema Operativo a MX Linux
-- Estoy haciendo Backup de mis Archivos del External HD Toshiba es de 1TB tiene dos particiones, BU_Drive(200GB) TOSHIBA EXt(800GB) esta partición no la puedo utilizar con Linux, pero si la puedo copiar, no mover!. voy a respaldar para poder re formatearlo!
+- Estoy haciendo Backup de mis Archivos del External HD Toshiba es de 1TB tiene dos particiones, BU_Drive(200GB) TOSHIBA EXt(800GB) esta partición no la puedo utilizar con linux, pero si la puedo copiar, no mover!. voy a respaldar para poder re formaterlo!
 
 
 TOSHIBA 1TB
 - Películas (149.8 GB)
 
 # 19/09/2023 09:52
-* * *
-- Particionar Yoga en 2 discos de 250GB cada uno, usando utilitaria rescatux iso con ventoy en usb 16GB con Bandera de Mexico
+- Particionar Yoga en 2 discos de 250GB cada uno, usando utilitaria recatux iso con ventoy en usb 16GB con Bandera de Mexico
 - instale Mx Linux 23 a Yoga
 - Estoy en el proceso de configuración
 - Estoy Sincronizando Insync 
@@ -18,26 +22,24 @@ TOSHIBA 1TB
 PCloudDrive
 
 Folders:
-- Backups			- 60.6 GB
+- Backups			-	60.6 GB
 - My Pictures 		- 13.4 GB
 - Vandana HD Share	- 9.5 GB
 - luckyBackup		- 7.5 GB
-- Insync2021		- 5.9 GB
+- Insync2021		- 	5.9 GB
 - My Videos 		- 4.5 GB
 - My Music 			- 4.4 GB
-- My Downloads	    - 343.6 MB
-- py-uia 	        - 134.9 MB
-- My Documents	    - 55.6 MB
+- My Downloads	- 343.6 MB
+- py-uia 				- 134.9 MB
+- My Documents	- 55.6 MB
 - Joplin-BackUp  	- 20.7 MB	
-- IconsData 		-  6.8 MB 
-
+- IconsData 		-	6.8 MB 
 
 # 20/09/2023 06:21
-* * *
 
 - Install Docker-Desktop Debian on Mx Linux Yoga
-- Tematize por completo Mx Linux Yoga!
-- Instael Lando
+- Temática completo Mx Linux Yoga!
+- Instale Lando
 - Lando NO me funciono con Docker Desktop
 - Voy desinstalar Docker
 
@@ -66,6 +68,11 @@ sudo rm /etc/apparmor.d/docker
 sudo groupdel docker
 sudo rm -rf /var/run/docker.sock
 ```
+
+- Volvi a Instalar Docker desde [aqui](https://docs.docker.com/engine/install/debian/#install-using-the-repository) con la instalcion normal en server con docker compose como plug in.
+- Y el Docker Compose PlugIn desde [aqui](https://docs.docker.com/compose/install/linux/).
+- Volvi a instalar Lando Dev desde su paquete .deb que baje
+- Ya me funciono!
 
 ## Clone School
 1. Clonar repo con Git Kraken a una carpeta por ejemplo:
@@ -98,7 +105,6 @@ sudo rm -rf /var/run/docker.sock
 18. Listo!
 
 # 21/09/2023 19:29
-* * *
 - Instale Rhino Linux En segunda particion de Lenovo Yoga
 - Instale:
 - Nala, App Image Launcher, Docker, Lando
@@ -106,15 +112,37 @@ sudo rm -rf /var/run/docker.sock
 - Vscode
 
 # 22/09/2023 14:06
-* * *
 - Voy a trabajar en Mx Linux es mucho mas Pro
 - Instale VsCode
 - Customizar VsCode con nuevo perfil "Laravel"
 
 # 23/09/2023 07:41
-* * *
 - Seguir customizando VsCode 
 - Para crear user snippets ctrl+shift+p User Snippets, Create New User Snippets
 - ponerle un nombre por ejemplo "mysnippets", vscode crea un archivo global en `/home/enrique/.config/Code/User/profiles/-3302f02b/snippets/`
 - En una instalacion nueva de vscode como este archivo es global no va a tener mis snippets, pro podemos copiarlos de backup que tengo aqui en `Joplin bajo Tools/Vscode/User Snippets`
+
+Crear nuevo Profile en VScode
+Settings/Profiles/Create New Profile
+`Laravel`
+
+## Extensiones
+- community material theme (Equinusocio)
+- Laravel artisan (Ryan Naddy)
+- Laravel Blade Snippets (Winnie Lin)
+- Laravel Blade Spacer (Austen Cameron)
+- Laravel Extra Intellisense (amir)
+- PHP Intelephense (Ben Mewburn)
+- Laravel goto (Adrian)
+- Laravel goto view (codingyu)
+- Laravel snippets (Winnie Lin)
+- PHP DocBlocker (Neil Brayfield) - Bloque de Comentarios
+- PHPDoc Comment (Rex Shi) -Add phpdoc @param and @return tag for selected function signatures.
+- PHP Namespace Resolver (Mehedi Hassan) - Import and expand php namespaces
+- Beautify Blade (Apility AS) - Beautify blade, javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
+- DotENV (mikestead) - Colores para archivo .env
+- Paste JSON as Code (quicktype) - Copy JSON, paste as Go, TypeScript, C#, C++ and more.
+- Tailwind CSS IntelliSense (Tailwind Labs) 
+- VSCode Great Icons (Emmanuel Béziat) - Ver carpetas e icones en side panel
+- Database Client (Weijan Chen) - Database manager for MySQL/MariaDB, SQLite, Redis and ElasticSearch.
 
