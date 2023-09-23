@@ -105,3 +105,16 @@ sudo rm -rf /var/run/docker.sock
 - GitKraken
 - Vscode
 
+# 22/09/2023 14:06
+* * *
+- Voy a trabajar en Mx Linux es mucho mas Pro
+- Instale VsCode
+- Customizar VsCode con nuevo perfil "Laravel"
+
+# 23/09/2023 07:41
+* * *
+- Seguir customizando VsCode 
+- Para crear user snippets ctrl+shift+p User Snippets, Create New User Snippets
+- ponerle un nombre por ejemplo "mysnippets", vscode crea un archivo global en `/home/enrique/.config/Code/User/profiles/-3302f02b/snippets/`
+- En una instalacion nueva de vscode como este archivo es global no va a tener mis snippets, pro podemos copiarlos de backup que tengo aqui en `Joplin bajo Tools/Vscode/User Snippets`
+
