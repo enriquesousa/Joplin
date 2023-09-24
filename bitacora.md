@@ -146,3 +146,11 @@ Settings/Profiles/Create New Profile
 - VSCode Great Icons (Emmanuel Béziat) - Ver carpetas e icones en side panel
 - Database Client (Weijan Chen) - Database manager for MySQL/MariaDB, SQLite, Redis and ElasticSearch.
 
+## Instale en MX Linux
+- PHP
+- Compose
+- Laravel
+- Valet Cpriego (Instalo Nginx)
+- MariaDB
+- Mysql Workbench
+
