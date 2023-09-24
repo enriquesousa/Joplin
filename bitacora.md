@@ -154,3 +154,42 @@ Settings/Profiles/Create New Profile
 - MariaDB
 - Mysql Workbench
 
+# 24/09/2023 08:06
+- Instale Vivaldi
+- Instale phpMyAdmin de [liga](https://www.phpmyadmin.net/downloads/)
+- Importe la Base de Datos school.sql de /home/enrique/Sites/school/database
+- Instale php-mysql desde mx install packages para que pudiera funcionar phpMyAdmin
+
+school
+Para poder usar nginx local con la base de datos local y valet, cambiar el .env a:
+```
+APP_NAME=school
+APP_ENV=local
+APP_KEY=base64:0xsyOMuN+ffSaXCtRXKazgFJr+f7hCtVGBBgPMdOS3s=
+APP_DEBUG=true
+# APP_URL=http://school.lndo.site
+APP_URL=http://school.test
+
+LOG_CHANNEL=stack
+LOG_DEPRECATIONS_CHANNEL=null
+LOG_LEVEL=debug
+
+# DB_CONNECTION=mysql
+# DB_HOST=database
+# DB_PORT=3306
+# DB_DATABASE=school
+# DB_USERNAME=root
+# DB_PASSWORD=
+
+DB_CONNECTION=mysql
+DB_HOST=localhost
+DB_PORT=3306
+DB_DATABASE=school
+DB_USERNAME=root
+DB_PASSWORD=password
+
+```
+
+Ya me funciono todo local.
+Siento que es mas eficiente con valet-cpriego que lando.
+Pero tengo las dos opciones, si quiero puedo utilizar también lando
