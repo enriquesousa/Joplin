@@ -193,3 +193,25 @@ DB_PASSWORD=password
 Ya me funciono todo local.
 Siento que es mas eficiente con valet-cpriego que lando.
 Pero tengo las dos opciones, si quiero puedo utilizar también lando
+
+# 25/09/2023 17:34
+- Me la pase configurando la maquina Optiplex Con Mx Linux
+enrique@mx 
+OS: MX x86_64 
+Host: OptiPlex 9020 00 
+Kernel: 6.1.0-12-amd64 
+- Instale phpMyAdmin
+- FishShell
+- GitKraken
+- Ulaucher
+- Git
+- Vscode
+- MariaDB Local
+	- user: root
+	-pasw: password
+- PHP
+- Composer
+- Laravel Installer
+- Valet Cpriego
+- Listo!
+
