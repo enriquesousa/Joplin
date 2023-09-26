@@ -215,3 +215,11 @@ Kernel: 6.1.0-12-amd64
 - Valet Cpriego
 - Listo!
 
+# 26/09/2023 11:11
+Actualizar Documentación Joplin
+- Nuevo Notebook Bitacora con sub-notebooks para cada Mes
+- Septiembre 2023
+- En Tools
+- Notebook: Fish
+- Notebook: Micro
+- Notebook: Ranger
