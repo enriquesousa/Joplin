@@ -223,3 +223,17 @@ Actualizar Documentación Joplin
 - Notebook: Fish
 - Notebook: Micro
 - Notebook: Ranger
+
+# 27/09/2023 13:58
+- Instale Terminator 
+- en .bashrc
+```
+# Mis PATHS
+export PATH="$PATH:$HOME/.config/composer/vendor/bin"
+
+# Mis Alias
+alias r='ranger --choosedir=$HOME/.rangerdir; LASTDIR=`cat $HOME/.rangerdir`; cd "$LASTDIR"'
+
+# Correr Fiash Shell
+fish
+```
