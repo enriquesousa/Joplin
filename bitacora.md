@@ -237,3 +237,54 @@ alias r='ranger --choosedir=$HOME/.rangerdir; LASTDIR=`cat $HOME/.rangerdir`; cd
 # Correr Fiash Shell
 fish
 ```
+
+# 28/09/2023 10:35
+
+Quize prender la maquina YOGA! con mi mx linux tematizado y nose que paso que ya no corren los programas de mx tools!!!!!!
+
+En cuention de desarrollo no tenia mucho!
+Solo School!
+Y este proyecto ya lo tengo actualizado aquí en esta maquina Optiplex que ya la deje funcionando al 100%.
+
+Lo que voy hacer es restablecer el iso de esta optiplex a mi yoga!
+
+- Format Lenovo Yoga con diferentes particiones
+- Instale el iso de la maquina optiplex en la particion de 120GB que genere para mx linux 23
+
+# 29/09/2023 10:01 AM
+
+- Lenovo Yoga
+- Instale Plank
+- Monte el Drive DATA, ahí voy a tener toda mi informacion de:
+	- Documents
+	- Pictures
+	- Downloads
+	- Music
+	- Videos
+- Instale **Shutter** Screen Capture, un mejor screen capture!
+
+# Symbolic link
+A [symbolic link](https://linuxhandbook.com/symbolic-link-linux/), also known as a symlink or a soft link, is a special type of file that simply points to another file or directory just like shortcuts in Windows. Creating symbolic link is like creating alias to an actual file.
+
+## How to create a symbolic link in Linux
+To create a symbolic link to target file from link name, you can use the ln command with -s option like this:
+`ln -s target_file link_name`
+
+Para mi link de Sites
+`ln -s /mnt/DATA/Sites Sites`
+
+
+The -s option is important here. It determines that the link is soft link. If you don’t use it, it will create a hard link. I’ll explain the difference between soft links and hard links in a different article.
+
+## How to follow a symbolic link
+To know which real file the link actually points to, use the realpath command:
+`realpath link_name`
+
+## How to delete a symbolic link
+There is no special command for deleting symlinks in Linux. You can use the same rm command that you use for deleting files and directories.
+`rm link_name`
+Deleting the link won't delete the source file it links to.
+You can delete multiple symbolic links in one command as well:
+`rm link1 link2`
+
+
