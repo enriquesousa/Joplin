@@ -287,4 +287,36 @@ Deleting the link won't delete the source file it links to.
 You can delete multiple symbolic links in one command as well:
 `rm link1 link2`
 
+# 30/09/2023 9:33 AM
+
+## Crear los symbolic links a mis carpetas en DATA
+Crear los links simbólicos para mis carpetas en la partición de DATA! 
+- `cd ~`
+- `ln -s /mnt/DATA/Sites Sites`
+Le cambie los nombres a los links a español para poder usarlos directo, de otra manera genear el simlink dentro de la carpeta.
+- `ln -s /mnt/DATA/Documents Documentos`
+-  `ln -s /mnt/DATA/Downloads Descargas`
+- `ln -s /mnt/DATA/Music Musica`
+- `ln -s /mnt/DATA/Pictures Fotos`
+- `ln -s /mnt/DATA/Videos Vids`
+
+# Insync
+Instalar Insync para [Debian Bookworm](https://www.insynchq.com/install-for-servers#deb-debian)
+
+`cd Descargas`
+
+Bajar el deb de [aquí](https://www.insynchq.com/downloads/linux):
+**Debian - Bookworm**
+Install:
+- insync_3.8.6.50504-bookworm_amd64.deb
+
+Despues de correr la instalacion, escoger la carpeta de descarga en:
+`/home/enrique/Data/Insync`
+Y Syncronizar solo carpeta de google drive `Insync2022`.
+
+# Clonar Repo
+- Clonar en Sites `hugoblog`
+
+
+
 
