@@ -318,5 +318,15 @@ Y Syncronizar solo carpeta de google drive `Insync2022`.
 - Clonar en Sites `hugoblog`
 
 
+# 01/10/2023 8:23 AM
+## Domingo
+Cumpleaños  peque!  
+Desayunar en Cafe de la Flor Pacifico
+
+# 02/10/2023 9:33 AM
+## Lunes
+- Format e Install Mx Linux 23 a Maquina de Junior de su Oficina
+
+
 
 
