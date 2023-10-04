@@ -335,6 +335,18 @@ Desayunar en Cafe de la Flor Pacifico
 - Ajustar `Login cookie validity = 28800` en phpMyAdmin
 
 
+# 04/10/2023 07:21 - Miércoles
+
+Optiplex
+- Al tratar de instalar mysql-workbench de un deb para ubuntu
+- Y despues al querer instalarlo con el procedieminto para Debian como lo tengo aqui en Joplin.
+- La maquina me pidio que hiciera un `Full Upgrade` y tardo mucho y con eso ya no pudo funcionar mi maquina, y como no tenia el time shift instalado no pude regresar.
+- Encontré una mejor solución aqui en [dbdiagram](https://dbdiagram.io/d) para tener un diseño de la base de datos.
+- Voy a generar un snapshot de mi maquina Yoga y la voy a instalar en Optiplex!
+- snapshot-4-oct-23-MxLinux23-Yoga.iso
+- Listo!
+
+
 
 
 
