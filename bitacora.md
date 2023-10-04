@@ -331,6 +331,9 @@ Desayunar en Cafe de la Flor Pacifico
 # 03/10/2023 07:29 - Martes
 ## Martes
 - Lista Keyboard Shortcuts `Vivaldi`
+- Instale Extension de [Bookmarks](https://github.com/alefragnani/vscode-bookmarks/#bookmarks) en vscode de Alessandro Fragnani
+- Ajustar `Login cookie validity = 28800` en phpMyAdmin
+
 
 
 
