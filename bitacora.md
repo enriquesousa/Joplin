@@ -328,5 +328,10 @@ Desayunar en Cafe de la Flor Pacifico
 - Format e Install Mx Linux 23 a Maquina de Junior de su Oficina
 
 
+# 03/10/2023 07:29 - Martes
+## Martes
+- Lista Keyboard Shortcuts `Vivaldi`
+
+
 
 
