@@ -346,6 +346,19 @@ Optiplex
 - snapshot-4-oct-23-MxLinux23-Yoga.iso
 - Listo!
 
+- Crear Time Shift en Partition DATA en Maquina ThinkPad Yoga
+- Craer Time Shift para Optiplex
+- Cambiar Teclado por Default en `Settings manager / Keyboard`
+- Desinstalar Insync en Optiplex despues volver a 
+- Instalar Insync en Optiplex
+- Esto es para poder volver a asignarle una carpeta nueva local para que syncronice
+- No voy a Instalar Insync, voy a tratar de usar solo Pcloud, cualquier informacion que necesite lo puedo copiar de un backaup que haga a Pcloud de mi maquina Yoga a luckybackup
+- Optiplex: Instale `fzf` buscador de archivos
+- Clonar con GitKraken
+	- Joplin
+	- school
+	- hugoblog
+	- realestate
 
 
 
