@@ -360,6 +360,36 @@ Optiplex
 	- hugoblog
 	- realestate
 
+# 06/10/2023 11:28 AM - Viernes
+
+- Preparar mi Lenovo Yoga para Multi boot con una sola /home partition que van a compartir los sistemas operativos que instale
+- Time shift en Yoga Ocupa como 18 GB, 2 a la semana y 1 al mes, mas otros 20 GB que deje para el sistema, me quedaría una partition de 40 GB
+- Las demás particiones pueden ser de 32 GB cada una 
+- Backup Insync/Insync2022 a ADATA USB en /media/enrique/ADATA/luckyBackups/Yoga/mxlinux23/Insync/insync2022
+- Son solo 1.8 GB pero se tarda mucho porque son como 40,993 archivos!
+- 
+- Voy a borrar insync de Yoga
+- `sudo apt remove insync`
+- Voy a volver a Instalarlo y copiar los datos del backup 
+![185291adc730b549920efa5733794ee1.png](:/0478e77fede646578791b9ecd3841922)
+- Cambiar a ~/Insync (donde ya copie los datos del backup)
+- para ver si Insync lo reconoce y se tarda menos en hacer el sync
+- Dismmis los errors en errors 
+- dar click en cloud sync
+- y de inmediato reconoce y pone la flecha verde que todo esta sync!
+
+- Voy a volver a desinstalar Insync
+- Voy a generar priemero el iso de de YOGA
+ 
+## Preparar el HDD
+
+1. Installing Two Linux Distros on a single HDD with a shared Home. Part 1 - Prepping the Hard Drive
+[liga](https://www.youtube.com/watch?v=T8ZTDzgmtoY)
+2. How to Dualboot and Multiboot Linux (and Windows) [liga](https://www.youtube.com/watch?v=Crleyglb4mo)
+
+
+
+
 
 
 
