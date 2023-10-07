@@ -317,6 +317,7 @@ Y Syncronizar solo carpeta de google drive `Insync2022`.
 # Clonar Repo
 - Clonar en Sites `hugoblog`
 
+# Octubre 2023
 
 # 01/10/2023 8:23 AM
 ## Domingo
@@ -388,6 +389,19 @@ Optiplex
 2. How to Dualboot and Multiboot Linux (and Windows) [liga](https://www.youtube.com/watch?v=Crleyglb4mo)
 
 
+# 07/10/2023 10:00 AM - Sábado
+- Format Lenovo Yoga
+- Instale Partition para:
+- Home
+- Rhino Linux
+- Mx Linux 23
+- Swap 8GB
+
+- Instale Mx Linux 23 
+- Instale Rhino Linux 2023.3
+
+- con el grub de rhino no puedo entrar a Mx Linux!
+- ?
 
 
 
