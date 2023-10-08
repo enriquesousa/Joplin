@@ -84,3 +84,6 @@ Optiplex
 - con el grub de rhino no puedo entrar a Mx Linux!
 - ?
 
+# 08/10/2023 8:01 AM - Domingo 
+- Instale Insync en Yoga
+- Configuración de Virt-Manager ver [Share Folder](:/263cc546a6c24b949a0c4bd00b074923)
