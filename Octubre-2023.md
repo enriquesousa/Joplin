@@ -87,3 +87,23 @@ Optiplex
 # 08/10/2023 8:01 AM - Domingo 
 - Instale Insync en Yoga
 - Configuración de Virt-Manager ver [Share Folder](:/263cc546a6c24b949a0c4bd00b074923)
+
+# 09/10/2023 18:47 - Lunes
+- Arregle mi setup de musica area de la sala
+![4fddfc54925bbf20ddc46601c9218698.png](:/649b6e8f9ef64acd945557d21b8988b4)
+La anterior la hize con copy paste.
+
+Las fotos es mejor con [liga](https://photos.app.goo.gl/ZWftEFY4R95Ha9G18) para poder verlas en todas las maquinas!
+
+Si queremos copiar la imagen 4fddfc54925bbf20ddc46601c9218698.png a:
+`/home/enrique/.config/joplin-desktop/resources`
+
+Voy crear una carpeta en `home/enrique/pCloudDrive/Joplin-BackUp/Imagenes` para hacer backups de las imagenes que estan en:
+`/home/enrique/.config/joplin-desktop/resources`
+
+Insertar Imagen dede HD con la opcion de menu Edit/Attacch File
+
+![4fddfc54925bbf20ddc46601c9218698.png](:/ac4b4a6192c94d9881634ae1a5061adb)
+
+
+
