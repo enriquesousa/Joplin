@@ -178,6 +178,8 @@ V8: 11.4.183.29-electron.0
 OS: Linux x64 6.1.0-12-amd64 snap
 ```
 
+-  Instale LMDE 6 en Optiplex
+
 
 
 
