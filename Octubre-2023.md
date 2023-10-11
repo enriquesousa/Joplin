@@ -106,4 +106,79 @@ Insertar Imagen dede HD con la opcion de menu Edit/Attacch File
 ![4fddfc54925bbf20ddc46601c9218698.png](:/ac4b4a6192c94d9881634ae1a5061adb)
 
 
+# 10/10/2023 10:12 - Martes
+Fui a comprar a steren un USb de 32GB para pasar el MX OS personalizado snap shot que tome de Yoga son como 18 GB!
+
+
+# 11/10/2023 10:13 - Miércoles
+
+- En Zorin OS todavía
+- Bajar Imágenes de:
+- Peppermint OS Debian
+- Manjaro OS
+- Crear Ventoy USB en mi usb de 32 GB
+- Copiar snapshot-20231008_0959.iso 
+- Copiar PeppermintOS-Debian-64.iso
+- Baje Vivalde mientras en mi Zorin OS
+- Listo
+- Ya tengo Mx Linux 23 en Latitude con todo y Virt Machine
+- Tuve que des-instalar y volver a instalar Joplin de FlatPak para que funcionara.
+- Vincule de nuevo DropBox
+- Encendi temporalmente que inicie con start up Insync y DropBox para que syncromizen archivos
+- Reinstale VsCode con Mx Linux Package Installer
+- NO funciona VsCode lo voy a des instalar y volver a instalar con Mx Package Installer
+- Lo voy a Instalar con Flatpak
+```
+This version is running inside a container and is therefore not able
+to access SDKs on your host system!
+To execute commands on the host system, run inside the sandbox:
+  $ host-spawn <COMMAND>
+To make the Integrated Terminal automatically use the host system's shell,
+you can add this to the settings:
+```
+- Se va a complicar vs code con Flatpak
+- Lo instalare normal del repositorio de MX Linux
+
+## Problema con nueva version de VsCode 1.83
+vscode 1.83.0 freezes on folder with git, debian bookworm 12
+Voy a Instalarlo con estas [Instrucciones](https://code.visualstudio.com/docs/setup/linux): 
+https://code.visualstudio.com/docs/setup/linux
+Sigue Igual! :(
+
+Lo voy a Instalar con snap 
+Instalar snapd en Debian 12 [liga](https://linux.how2shout.com/setup-snap-and-snap-store-in-debian-12-bookworm-linux/)
+`sudo apt install snapd`
+First start and enable it:
+`sudo systemctl start snapd`
+`sudo systemctl enable snapd`
+Now check the status:
+`sudo systemctl status snapd`
+After that also install the core files required by it.
+`sudo snap install core`
+
+For those who want to use its command syntax to install the various software, here is the that to follow:
+`sudo snap install package-name`
+
+Installing Snap Store for Debian 12
+`sudo snap install snap-store`
+
+In a few minutes, the installation will be completed, but you won’t find the icon of Snap Store by default in the Application menu. To get it, reboot your Debian 12 once.
+`sudo reboot`
+
+Con snap si funciona! y con la ultima version 1.83
+```
+Version: 1.83.0
+Commit: e7e037083ff4455cf320e344325dacb480062c3c
+Date: 2023-10-03T16:11:49.843Z
+Electron: 25.8.4
+ElectronBuildId: 24154031
+Chromium: 114.0.5735.289
+Node.js: 18.15.0
+V8: 11.4.183.29-electron.0
+OS: Linux x64 6.1.0-12-amd64 snap
+```
+
+
+
+
 
