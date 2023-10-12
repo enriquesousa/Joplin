@@ -180,6 +180,60 @@ OS: Linux x64 6.1.0-12-amd64 snap
 
 -  Instale LMDE 6 en Optiplex
 
+11/10/2023 8:01 PM
+- Clone school en Latitude
+
+
+## Pasos Resumen
+1. Clonar repo con Git Kraken a una carpeta por ejemplo:
+	`/home/enrique/Sites/`
+2. Asegurarnos de tener `/home/enrique/Sites/phpMyAdmin/` todos los archivos unzip
+3. `valet link`
+4. Ver los links `valet links`
+5. Crear una nueva base de datos, dentro de phpmyadmin: school
+6. Importar la base de datos de: 	`/home/enrique/Sites/lando/school/database/school.sql` 
+7. Colocarse en la nueva base de datos he importar base de datos
+8. `composer install`
+9. `npm install`
+10. Create a copy of your .env file copiar de .env.example
+11. Cuando Instale Mysql 
+12. [Install MariaDB](:/cba15e118ff543dca80829075b8254d3)
+13. El servidor quedo con:
+14. DB_USERNAME=root
+15. DB_PASSWORD=password
+16. Datos en .env
+
+```
+APP_NAME=Laravel
+APP_ENV=local
+APP_KEY=base64:d40ASwzlQI7ibtIf9MYUcMbO6g1F/buwrQd/iQDHSx8=
+APP_DEBUG=true
+APP_URL=http://school.test
+
+LOG_CHANNEL=stack
+LOG_DEPRECATIONS_CHANNEL=null
+LOG_LEVEL=debug
+
+DB_CONNECTION=mysql
+DB_HOST=localhost
+DB_PORT=3306
+DB_DATABASE=school
+DB_USERNAME=root
+DB_PASSWORD=password
+```
+
+	
+17. Generate an app encryption key
+18. `php artisan key:generate`
+19. Storage Link
+20. `php artisan storage:link`
+21. `valet link`
+22. Visitar Pagina: 
+23. Listo!
+
+
+
+
 
 
 
