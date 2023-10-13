@@ -231,6 +231,24 @@ DB_PASSWORD=password
 22. Visitar Pagina: 
 23. Listo!
 
+# 12/10/2023 8:33 AM - Jueves
+- Instale Pcloud a VM Rhino Linux, solo baje su app image se hace ejecutable y se corre directamente
+- Instale Joplin en Rhino Linux con flatpak y sync con pcloud
+
+En Yoga
+- Reset de user y password a Mariabd [Install MariaDB](:/cba15e118ff543dca80829075b8254d3)
+- Login a GitHub
+- Instalar phpMyAdmin (En Vivaldi NO pude hacer Login) lo use con Firefox
+- Clonar school
+- crear correctamente el .env
+- composer install
+- npm isntall
+- php artisan key:generate
+- php artisan storage:link
+- valet link
+
+Listo!
+
 
 
 
