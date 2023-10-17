@@ -249,6 +249,18 @@ En Yoga
 
 Listo!
 
+# 13/10/2023 6:48 AM - Viernes
+
+En Yoga:
+- clone phpinfo
+- clone realestate
+
+# 16/10/2023 6:56 AM - Lunes
+
+- En Latitude
+- Clone hugoblog, realestate, phpinfo
+- Inicie Proyecto Nuevo POS (Point of Sale)
+- Hasta 107. Install Laravel Breeze
 
 
 
