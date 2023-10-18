@@ -263,6 +263,14 @@ En Yoga:
 - Hasta 107. Install Laravel Breeze
 
 
+# 17/10/2023 11:01 AM - Martes
+
+1. 108. Login with Name, email or Phone Part 1
+2. 109. Login with Name, email or Phone Part 2
+3. 110. Project Theme Overview
+4. 111. Admin Template Setup
+5. 112. Dashboard Page Segmentation
+
 
 
 
