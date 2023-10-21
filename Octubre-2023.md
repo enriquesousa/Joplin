@@ -272,6 +272,18 @@ En Yoga:
 5. 112. Dashboard Page Segmentation
 
 
+# 19/10/2023 6:25 AM - Jueves
+1. 118. Admin Profile and Image Update P2
+
+# 21/10/2023 11:53 AM - Sábado
+1. 121. Adding Toster for view message
+2. 122. Display Login and Logout Message in Toster
+3. 123. How to Display Login Credentials Message
+
+
+
+
+
 
 
 
