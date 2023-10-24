@@ -281,7 +281,16 @@ En Yoga:
 3. 123. How to Display Login Credentials Message
 4. 127. Employee Management Part 1
 
+# 22/10/2023 8:37 AM - Domingo
+1. 124. Admin Profile Change Password P1
+2. 125. Admin Profile Change Password P2
+3. 126. How to Protect URL By MiddleWare
+4. 127. Employee Management Part 1
 
+# 23/10/2023 7:13 AM - Lunes
+1. 128. Employee Management Part 2
+2. 129. Employee Management Part 3
+3. 130. Employee Management Part 4
 
 
 
