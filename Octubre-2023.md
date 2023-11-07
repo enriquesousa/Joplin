@@ -302,6 +302,23 @@ En Yoga:
 2. 135. Employee Management Part 8
 3. 136. Employee Management Part 9
 
-26/10/2023 7:57 AM - Jueves
+# 26/10/2023 7:57 AM - Jueves
 1. 137. Customer Management Part 1
 2. 138. Customer Management Part 2
+
+## 27/10/2023 11:55 AM - Viernes
+1. 139. Customer Management Part 3
+2. 140. Suppliers Management Part 1
+
+## 28/10/2023 9:59 AM - Sábado
+1. 141. Suppliers Management Part 2
+2. 142. Suppliers Management Part 3
+
+## 29/10/2023 7:04 AM - Domingo
+- 143. Suppliers Details Page View
+- 144.
+- 145.
+
+## 30/10/2023 6:29 PM - Lunes
+- 146. Advance Salary Option Part 2
+- 147. Advance Salary Option Part 3
